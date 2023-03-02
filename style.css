@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{font-family: 'Roboto', sans-serif;}
+h1{background-color: aliceblue;}
+div{
+    background-color:aliceblue;
+    height: 50vh;
+    width: 100vh;
+    color: rgb(154, 126, 73);
+    border: 6px solid wheat;
+}
+p{
+    color: #bd5c5c;
+    font-size: 69px;
+    font-weight: 700;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p.new{
+    color: rgb(42, 64, 42);
+    font-size: 50px;
+    background-color: wheat;
+}
